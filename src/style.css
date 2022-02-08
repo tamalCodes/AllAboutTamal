@@ -277,6 +277,23 @@ html {
   padding-left: 52px !important;
 }
 
+.tamalImg {
+  border-radius: 50%;
+  width: 20vw;
+  margin-top: 20px;
+}
+@media (max-width: 425px) {
+  .tamalImg {
+    margin-top: 0px;
+    width: 45vw;
+  }
+}
+@media (max-width: 768px) and (min-width: 426px) {
+  .tamalImg {
+    margin-top: 80px;
+    width: 45vw;
+  }
+}
 .main-name {
   color: #cd5ff8;
 }
