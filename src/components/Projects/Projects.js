@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Reimagined Worship"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="/"
             />
           </Col>
 
